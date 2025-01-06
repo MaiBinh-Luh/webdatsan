@@ -1,0 +1,34 @@
+[08-Dec-2024 17:47:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function format_num() in /home/shopni10/app.taixiumomo.top/admin/court_rentals/view_court_rental.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/view_court_rental.php on line 121
+[08-Dec-2024 17:47:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _settings in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _settings in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _settings in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _settings in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:47:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:48:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _settings in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:48:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:48:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: _settings in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2
+[08-Dec-2024 17:48:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 2

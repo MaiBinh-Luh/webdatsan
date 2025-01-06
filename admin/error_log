@@ -1,0 +1,186 @@
+[08-Dec-2024 05:15:38 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/shopni10/app.taixiumomo.top/admin/index.php on line 117
+[08-Dec-2024 05:15:43 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/shopni10/app.taixiumomo.top/admin/index.php on line 117
+[08-Dec-2024 05:15:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/shopni10/app.taixiumomo.top/admin/index.php on line 117
+[08-Dec-2024 05:15:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/shopni10/app.taixiumomo.top/admin/index.php on line 119
+[08-Dec-2024 05:15:53 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/shopni10/app.taixiumomo.top/admin/index.php on line 119
+[08-Dec-2024 06:17:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/shopni10/app.taixiumomo.top/admin/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/index.php on line 19
+[08-Dec-2024 06:21:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/shopni10/app.taixiumomo.top/admin/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/index.php on line 19
+[08-Dec-2024 05:27:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/index.php on line 94
+[08-Dec-2024 05:27:12 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/index.php on line 94
+[08-Dec-2024 05:27:37 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/index.php on line 94
+[08-Dec-2024 06:36:42 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:36:45 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:36:46 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:37:19 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:37:19 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:37:50 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:37:51 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:37:53 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:38:12 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 06:38:28 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/inc/navigation.php on line 190
+[08-Dec-2024 17:49:55 Asia/Ho_Chi_Minh] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home/shopni10/app.taixiumomo.top/admin/court_rentals/manage_court_rental.php on line 3
+[08-Dec-2024 17:49:55 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/shopni10/app.taixiumomo.top/admin/court_rentals/manage_court_rental.php on line 3
+[08-Dec-2024 17:49:58 Asia/Ho_Chi_Minh] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home/shopni10/app.taixiumomo.top/admin/court_rentals/manage_court_rental.php on line 3
+[08-Dec-2024 17:49:58 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/shopni10/app.taixiumomo.top/admin/court_rentals/manage_court_rental.php on line 3
+[08-Dec-2024 17:49:58 Asia/Ho_Chi_Minh] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home/shopni10/app.taixiumomo.top/admin/court_rentals/manage_court_rental.php on line 3
+[08-Dec-2024 17:49:58 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/shopni10/app.taixiumomo.top/admin/court_rentals/manage_court_rental.php on line 3
+[08-Dec-2024 18:25:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:25:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:25:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:25:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:25:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:26:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:26:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:26:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:26:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:38:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 64
+[08-Dec-2024 18:38:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 64
+[08-Dec-2024 18:39:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 64
+[08-Dec-2024 18:39:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 64
+[08-Dec-2024 18:39:14 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 64
+[08-Dec-2024 18:46:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:46:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:46:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:46:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:46:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:46:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:47:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:47:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:47:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:47:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:47:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:47:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:53:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:53:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:53:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 64
+[08-Dec-2024 18:54:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:54:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php:58
+Stack trace:
+#0 /home/shopni10/app.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 58
+[08-Dec-2024 18:54:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:54:32 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 86
+[08-Dec-2024 18:56:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 16
+[08-Dec-2024 18:56:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 82
+[08-Dec-2024 18:57:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 88
+[08-Dec-2024 18:58:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 88
+[08-Dec-2024 18:58:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 88
+[08-Dec-2024 18:58:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 88
+[08-Dec-2024 18:58:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 88
+[08-Dec-2024 19:00:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 3
+[08-Dec-2024 19:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 3
+[08-Dec-2024 19:03:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 9
+[08-Dec-2024 19:03:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_type in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 9
+[08-Dec-2024 19:18:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 205
+[08-Dec-2024 19:18:10 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 205
+[08-Dec-2024 19:18:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 205
+[08-Dec-2024 19:18:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 205
+[08-Dec-2024 19:18:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 205
+[08-Dec-2024 19:18:19 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/shopni10/app.taixiumomo.top/admin/court_rentals/index.php on line 205
+[10-Dec-2024 00:38:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
+[10-Dec-2024 00:39:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php:66
+Stack trace:
+#0 /home/shopni10/demo.taixiumomo.top/admin/index.php(26): include()
+#1 {main}
+  thrown in /home/shopni10/demo.taixiumomo.top/admin/court_rentals/index.php on line 66
